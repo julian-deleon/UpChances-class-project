@@ -1,3 +1,5 @@
+![upchances](https://github.com/julian-deleon/UpChances-class-project/assets/77114985/9ab6840b-9942-453f-805e-7b42fd86464a)
+
 # Assignment 3 Notes
 
 This framework is only to get you started; where you go from here is entirely up to you. 
