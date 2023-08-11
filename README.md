@@ -1,4 +1,4 @@
->Click this [LINK](https://up-chances-class-project-5jzu4042w-julian-deleon.vercel.app/) to view my live website deployed with Vercel!
+### Click this [LINK](https://up-chances-class-project-5jzu4042w-julian-deleon.vercel.app/) to view my live website deployed with Vercel!
 
 ![upchances](https://github.com/julian-deleon/UpChances-class-project/assets/77114985/9ab6840b-9942-453f-805e-7b42fd86464a)
 
